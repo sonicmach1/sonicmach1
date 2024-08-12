@@ -1,0 +1,11 @@
+[info]
+readonly=0
+codepage=65001
+version=1.29
+format=2
+title=Sonic Mach1
+refcount=10
+
+[titles]
+1033=Sonic Mach1
+
